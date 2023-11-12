@@ -1,3 +1,6 @@
+# Learning References:
+    https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
+
 ## Javascript Spacifications:
     https://tc39.es/ecma262/
     https://developer.mozilla.org/en-US/docs/Web/JavaScript
